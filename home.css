@@ -7,7 +7,7 @@
 }
 .container{
     height: 4;
-    background-image: url(img/hh.jpg) ; 
+    background-image: url(/midtermp/img/hh.jpg) ; 
     background-position: center;
     background-size: cover;
 }
