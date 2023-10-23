@@ -72,14 +72,14 @@ nav {
 }
 
 .container .circle.circle1 {
-    background: url(img/1.jpg);
+    background: url(/midtermp/img/1.jpg);
     background-size: cover;
     background-position: center;
     clip-path: circle(120px at 25% center);
 }
 
 .container .circle.circle2 {
-    background: url(img/2.jpg);
+    background: url(/midtermp/img/2.jpg);
     background-size: cover;
     background-position: center;
     clip-path: circle(120px at center);
@@ -87,7 +87,7 @@ nav {
 }
 
 .container .circle.circle3 {
-    background: url(img/3.jpg);
+    background: url(/midtermp/img/3.jpg);
     background-size: cover;
     background-position: center;
     clip-path: circle(120px at 75% center);
